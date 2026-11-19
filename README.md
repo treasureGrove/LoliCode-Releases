@@ -3,6 +3,7 @@
 这是 LoliCode 桌面应用的公开安装包分发仓库，仅用于软件下载与版本发布。
 本仓库不包含 LoliCode 应用源码。
 
+- [查看源码和 Star](https://github.com/treasureGrove/LoliCode) · [提交问题或建议](https://github.com/treasureGrove/LoliCode/issues)
 - 官网与下载入口：[lolicode.com](https://lolicode.com/)
 - 交流社区：[LoliCode 社区](https://lolicode.com/all)
 - 下载：[Releases](https://github.com/treasureGrove/LoliCode-Releases/releases)
